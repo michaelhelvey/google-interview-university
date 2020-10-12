@@ -1,4 +1,4 @@
-# Coding Interview University
+# CS University
 
 See the very bottom of the document for the table of contents, book list, and other information that I don't want to see at the top.
 
